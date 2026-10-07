@@ -471,5 +471,3 @@ Possible future improvements include:
 
 This project is created for educational and demonstration purposes.
 ```
-
-After saving it, say **`next`**.

@@ -1,4 +1,4 @@
-Yes. Here is the **complete `README.md` file in one block**. Copy everything below and replace your current `README.md` completely.
+
 
 ```markdown
 # Route 53 Clone
